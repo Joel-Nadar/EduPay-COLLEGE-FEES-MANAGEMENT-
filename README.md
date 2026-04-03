@@ -34,18 +34,6 @@ Plaintext
 ├── templates/          # HTML files (Index, Dashboards, Login/Signup)
 ├── static/             # CSS and JavaScript logic
 └── requirements.txt    # Python dependencies
-⚙️ Installation & Setup
-Clone the repository:
-
-Bash
-git clone https://github.com/YourUsername/School-Fee-Management.git
-cd School-Fee-Management
-Install dependencies:
-
-Bash
-pip install -r requirements.txt
-Database Configuration:
-Ensure your SQL Server is running and update the connection string in db.py.
 
 Run the application:
 
@@ -55,8 +43,3 @@ Open http://127.0.0.1:5000 in your browser.
 
 🛡️ License
 This project is open-source and available under the MIT License.
-
-Tips for your GitHub:
-Add Screenshots: After you upload the code, take screenshots of your app and put them in a folder named screenshots. You can then link them in the README using ![Dashboard](screenshots/admin_dash.png).
-
-Demo Video: If possible, record a 30-second screen recording of you paying a fee and showing the graph update!
